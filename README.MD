@@ -31,7 +31,7 @@ main :: proc() {
 - Windows only
 
 ## Usage
-See the [demo](demo).
+Run `build.bat` in `./lib` to make binaries. See the [demo](demo).
 
 ## License
 Public domain ⁠— no warranty implied; use at your own risk.
