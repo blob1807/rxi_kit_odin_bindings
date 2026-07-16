@@ -1,0 +1,6 @@
+*.lib
+*.exe
+*.pdb
+*.obj
+ols.json
+*.rdi
